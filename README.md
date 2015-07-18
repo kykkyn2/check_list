@@ -4,6 +4,6 @@
 2. NodeJS DB 사용해보기
 3. JAVA ALL REVIEW 
 4. Google API 사용 캘린더 작업 (Node or JAVA)
-5. Github 마스터 작전
+5. 젠킨스 작업
 6. Jwts
 7. Instagram API ㄱㄱ
