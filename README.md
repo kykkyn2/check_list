@@ -1,9 +1,9 @@
 # TODO LIST
 ---
 ##  JAVA or Spring
-  -1.  Jwts
-  -2.  JAVA ALL REVIEW
-  -3.  Instagram API
+  - 1.  Jwts
+  - 2.  JAVA ALL REVIEW
+  - 3.  Instagram API
 -
 ##  IOT
   -1.  NodeJS DB 사용해보기 X
