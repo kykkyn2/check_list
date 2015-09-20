@@ -11,7 +11,7 @@
 -
 ##  Server
   * 1.  서버 세션 클러스터
-  * 2.  Docker 작업
+  * 2.  Docker 작업 
   * 3.  젠킨스 작업
 -
 ##  JavaScript or Node or Script
